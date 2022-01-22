@@ -24,3 +24,6 @@ Hey! Why would you say that >:(
 - List
 
 Also, follow my [Instagram Page](https://www.instagram.com/ah_med_art/) if you want. I do **Drawings** and **stuff**.
+
+Im putting an image here both for the assignment but also for self promotion
+![]()
