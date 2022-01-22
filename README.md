@@ -11,3 +11,15 @@ Hey! Why would you say that >:(
 - [x] Make The Github Repository
 - [x] Finish Assignment Zero
 - [ ] Submit it via Canvas or Something :shipit:
+
+***Italics and Bold, This must be Important***
+- Not
+  - Really
+    - It's
+      - Actually
+      - Just
+    - A
+  - Nested 
+- List
+
+Also, follow my [Instagram Page](https://www.instagram.com/ah_med_art/) if you want. I do **Drawings** and **stuff**.
