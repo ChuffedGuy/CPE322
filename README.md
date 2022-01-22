@@ -10,7 +10,8 @@ Hey! Why would you say that >:(
 **List of things to do:**
 - [x] Make The Github Repository
 - [x] Finish Assignment Zero
-- [ ] Submit it via Canvas or Something :shipit:
+- [x] Submit it via Canvas or Something :shipit:
+- [ ] Become Famous
 
 ***Italics and Bold, This must be Important***
 - Not
