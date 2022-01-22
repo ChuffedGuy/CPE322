@@ -11,7 +11,7 @@ Hey! Why would you say that >:(
 - [x] Make The Github Repository
 - [x] Finish Assignment Zero
 - [x] Submit it via Canvas or Something :shipit:
-- [ ] Become Famous
+- [ ] Become Famous :moneybag:
 
 ***Italics and Bold, This must be Important***
 - Not
