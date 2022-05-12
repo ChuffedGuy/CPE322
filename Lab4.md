@@ -1,10 +1,12 @@
-## This is my report for Lab4
+## Lab 4 (Django project Stevens)
 ![](/media/Lab4_1.PNG)
 ![](/media/Lab4_2.PNG)
 ![](/media/Lab4_3.PNG)
 ![](/media/Lab4_4.PNG)
 ![](/media/Lab4_5.PNG)
+## Lab 4 (Django REST project mycpu)
 ![](/media/Lab4_6.PNG)
 ![](/media/Lab4_7.PNG)
 ![](/media/Lab4_8.PNG)
 ![](/media/Lab4_9.PNG)
+The reason for the watermark on the page was that Google wanted me to do some sort of identity authentification stuff (This involved showing a passport and answering a bunch of questions), I decided to forgo that for now since I got the project working perfectly otherwise.
