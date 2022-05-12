@@ -1,1 +1,10 @@
 ## This is my report for Lab4
+![](/media/Lab4_1.PNG)
+![](/media/Lab4_2.PNG)
+![](/media/Lab4_3.PNG)
+![](/media/Lab4_4.PNG)
+![](/media/Lab4_5.PNG)
+![](/media/Lab4_6.PNG)
+![](/media/Lab4_7.PNG)
+![](/media/Lab4_8.PNG)
+![](/media/Lab4_9.PNG)
