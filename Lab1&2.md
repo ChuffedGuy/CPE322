@@ -6,3 +6,4 @@
 ![](/media/lab1_5.png)
 ![](/media/lab1_6.png)
 ![](/media/lab1_7.png)
+![](/media/lab1_8.png)
