@@ -1,5 +1,4 @@
 ## This is my Submission for lab 1 and 2
-![](/media/studi.png)
 ![](/media/Lab1_1.png)
 ![](/media/Lab1_2.png)
 ![](/media/Lab1_3.png)
