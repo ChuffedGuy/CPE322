@@ -6,6 +6,7 @@
 ![](/media/Lab4_5.PNG)
 ## Lab 4 (Django REST project mycpu)
 ![](/media/Lab4_6.PNG)
+![](/media/Lab4_10.PNG)
 ![](/media/Lab4_7.PNG)
 ![](/media/Lab4_8.PNG)
 ![](/media/Lab4_9.PNG)
